@@ -1,4 +1,4 @@
 venv/
 models/
-data/images/*
-data/chroma_db/*
+/data/images/*
+/data/chroma_db/*
