@@ -1,0 +1,4 @@
+venv/
+models/
+data/images/*
+data/chroma_db/*
