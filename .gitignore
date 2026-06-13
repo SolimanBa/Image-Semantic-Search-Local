@@ -1,4 +1,7 @@
 venv/
 models/
 /data/images/*
+!/data/images/.gitkeep
+
 /data/chroma_db/*
+!/data/chroma_db/.gitkeep
