@@ -131,7 +131,7 @@ User queries are embedded using the same embedding model and compared against st
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/semantic-image-search.git
+git clone https://github.com/SolimanBa/Image-Semantic-Search-Local.git
 cd semantic-image-search
 ```
 
