@@ -33,5 +33,5 @@ def index_images(root_dir: str):
             fail_count += 1
     print(f"Indexing complete.\n Total Images:{len(images)}\nSuccess: {success_count}\nFail: {fail_count}")
 
-if __name__ == "__main__":
-    index_images("data/images")
+# if __name__ == "__main__":
+#     index_images("data/images")
