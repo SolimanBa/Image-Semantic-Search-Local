@@ -6,3 +6,5 @@ models/
 
 /data/chroma_db/*
 !/data/chroma_db/.gitkeep
+
+app/__pycache__/
